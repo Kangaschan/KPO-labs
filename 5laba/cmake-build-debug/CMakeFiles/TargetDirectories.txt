@@ -1,0 +1,3 @@
+C:/Everything/KPO/Laba5/cmake-build-debug/CMakeFiles/Laba5.dir
+C:/Everything/KPO/Laba5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Everything/KPO/Laba5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
