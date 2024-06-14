@@ -1,0 +1,3 @@
+C:/Everything/KPO/6laba/6/cmake-build-debug/CMakeFiles/6laba.dir
+C:/Everything/KPO/6laba/6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Everything/KPO/6laba/6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
