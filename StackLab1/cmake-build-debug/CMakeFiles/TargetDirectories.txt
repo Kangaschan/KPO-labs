@@ -1,0 +1,3 @@
+C:/MYSTUFF/KPO/StackLab1/cmake-build-debug/CMakeFiles/StackLab1.dir
+C:/MYSTUFF/KPO/StackLab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/MYSTUFF/KPO/StackLab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

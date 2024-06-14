@@ -1,0 +1,3 @@
+C:/MYSTUFF/KPO/Files2-nd/cmake-build-debug/CMakeFiles/Files2_nd.dir
+C:/MYSTUFF/KPO/Files2-nd/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/MYSTUFF/KPO/Files2-nd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
