@@ -1,0 +1,7 @@
+C:/Everything/КПО/1лаба/cmake-build-debug/CMakeFiles/14.dir
+C:/Everything/КПО/1лаба/cmake-build-debug/CMakeFiles/19.dir
+C:/Everything/КПО/1лаба/cmake-build-debug/CMakeFiles/28.dir
+C:/Everything/КПО/1лаба/cmake-build-debug/CMakeFiles/29.dir
+C:/Everything/КПО/1лаба/cmake-build-debug/CMakeFiles/30.dir
+C:/Everything/КПО/1лаба/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Everything/КПО/1лаба/cmake-build-debug/CMakeFiles/rebuild_cache.dir
